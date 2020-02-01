@@ -1,8 +1,0 @@
-C:\Different\Work\pfm\rmq\Rmq.Example\Rmq.Example.RabbitMq\bin\Debug\netcoreapp3.0\Rmq.Example.RabbitMq.deps.json
-C:\Different\Work\pfm\rmq\Rmq.Example\Rmq.Example.RabbitMq\bin\Debug\netcoreapp3.0\Rmq.Example.RabbitMq.dll
-C:\Different\Work\pfm\rmq\Rmq.Example\Rmq.Example.RabbitMq\bin\Debug\netcoreapp3.0\Rmq.Example.RabbitMq.pdb
-C:\Different\Work\pfm\rmq\Rmq.Example\Rmq.Example.RabbitMq\obj\Debug\netcoreapp3.0\Rmq.Example.RabbitMq.csprojAssemblyReference.cache
-C:\Different\Work\pfm\rmq\Rmq.Example\Rmq.Example.RabbitMq\obj\Debug\netcoreapp3.0\Rmq.Example.RabbitMq.AssemblyInfoInputs.cache
-C:\Different\Work\pfm\rmq\Rmq.Example\Rmq.Example.RabbitMq\obj\Debug\netcoreapp3.0\Rmq.Example.RabbitMq.AssemblyInfo.cs
-C:\Different\Work\pfm\rmq\Rmq.Example\Rmq.Example.RabbitMq\obj\Debug\netcoreapp3.0\Rmq.Example.RabbitMq.dll
-C:\Different\Work\pfm\rmq\Rmq.Example\Rmq.Example.RabbitMq\obj\Debug\netcoreapp3.0\Rmq.Example.RabbitMq.pdb
