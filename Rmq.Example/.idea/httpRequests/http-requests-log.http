@@ -1,0 +1,12 @@
+GET http://localhost:5000/rmq/rpc
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5000/rmq/rpc
+Accept: */*
+Cache-Control: no-cache
+
+###
+
